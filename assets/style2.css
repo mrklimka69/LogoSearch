@@ -1,5 +1,8 @@
 .content__block {
-    display: flex;
+    border: 1px solid #ffffff;
+    
+    margin: 0 auto;
+    text-align: center;
 }
 
 .block__label {
@@ -7,5 +10,6 @@
 }
 
 .block__img {
-    width: 650px;
+    width: 100%;
+    max-width: 650px;
 }
