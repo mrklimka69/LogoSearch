@@ -55,6 +55,10 @@ body {
     margin: 5px;
 }
 
+.component__img:hover{
+    transform: scale(1.2);
+}
+
 .header__button {
     border: 1px solid #ffffff;
 
