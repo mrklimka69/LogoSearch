@@ -6,6 +6,8 @@ body {
 
     background: url('https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12rZ8k.img') center no-repeat;
 
+    background-attachment: fixed;
+
     background-color: #2f3972;
 }
 
